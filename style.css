@@ -1,0 +1,29 @@
+body{
+    background-color: darkgreen;
+}
+.top{
+    position: absolute;
+    text-align: center;
+    color: aliceblue;
+    top: 0;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(6, 158, 6);
+}
+h1{
+    padding-top: 3%;
+    font-size: xx-large;
+}
+.middle{
+    padding-top: 12%;
+}
+.bottom{
+    position: absolute;
+    background-color: rgb(6, 158, 6);
+    width: 100%;
+    height: 8%;
+    margin-top: 3%;
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
